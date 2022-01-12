@@ -6,7 +6,7 @@ title = ""
 [params]
 author = "OneResume"
 description = "Lane Carr"
-primaryColor = "#54B689"
+primaryColor = "#A020F0"
 textPrimaryColor = "#292929"
 [params.awards]
 enable = false
